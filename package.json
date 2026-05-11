@@ -1,0 +1,20 @@
+{
+  "name": "Automated Quality Audit Tool",
+  "version": "1.0.0",
+  "description": "Advanced modular framework for automated website quality audits using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:audit": "playwright test tests/audit.spec.ts",
+    "install:playwright": "playwright install"
+  },
+  "keywords": ["playwright", "qa", "automation", "audit", "accessibility", "performance"],
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@axe-core/playwright": "^4.8.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}
