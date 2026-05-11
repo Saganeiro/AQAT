@@ -9,6 +9,7 @@
     "install:playwright": "playwright install"
   },
   "keywords": ["playwright", "qa", "automation", "audit", "accessibility", "performance"],
+  "author": "Senior QA Automation Architect",
   "license": "MIT",
   "devDependencies": {
     "@playwright/test": "^1.40.0",

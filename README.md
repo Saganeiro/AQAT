@@ -151,4 +151,6 @@ PDF report saved to: C:\path\to\audit-report.pdf
 
 MIT License - see package.json for details
 
-</content>
+## Author
+
+Senior QA Automation Architect
